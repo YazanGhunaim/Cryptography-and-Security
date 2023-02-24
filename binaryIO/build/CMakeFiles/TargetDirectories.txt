@@ -1,0 +1,3 @@
+/Users/yazanghunaim/Documents/kab/binaryIO/build/CMakeFiles/binaryIO.dir
+/Users/yazanghunaim/Documents/kab/binaryIO/build/CMakeFiles/edit_cache.dir
+/Users/yazanghunaim/Documents/kab/binaryIO/build/CMakeFiles/rebuild_cache.dir
