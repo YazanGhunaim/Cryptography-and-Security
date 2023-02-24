@@ -8,7 +8,7 @@ using std::cin;
 using std::cout;
 using std::endl;
 
-void testOne()
+void testTwo()
 {
     std::string str;
     cout << "Input 8-bit ASCII" << endl;
@@ -46,7 +46,7 @@ std::string hex_string_to_text(const std::string &hex_str)
     }
     return ss.str();
 }
-void testTwo()
+void testOne()
 {
     std::string s1 = "fc57c9cfdac7202694e8c2712d1f0e8e21b8c6f6d612d6c96847e42e6257b3f9ea98466cfc8761ed5e0308311deb15";
     std::string s2 = "a83fa0bcfaae5306f5c8b1144e6d6bfa01cca38ea23cf68707258b4a1b77c09185ed2a08dcf5048c3a237c5974983b";
